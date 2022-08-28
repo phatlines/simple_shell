@@ -10,7 +10,7 @@ In order to run this program,
 
 Clone This Repo
 
-`` git clone https://github.com/Theemiss/simple_shell ``
+`` git clone https://github.com/phatlines/simple_shell ``
 
 compile it with  
 
@@ -176,7 +176,7 @@ Project Done in 15 Day
 
 Read More [Here](https://midinfotn401.medium.com/shell-step-by-step-what-happen-when-you-type-ls-l-in-the-shell-83d655712332)
 ## Authors
-* Muyiwa Fatunsin [phatlines](https://github.com/phatlines)
+* Muyiwa Fatunsin [Phatlines](https://github.com/phatlines)
 * Olayigbade Olawale [Olayigbade](https://github.com/Olayigbade)
 
 <p align="center">
